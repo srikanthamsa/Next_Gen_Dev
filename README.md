@@ -2,7 +2,7 @@
 
 # React Calculator App
 
-This is a simple calculator application built using React. The app showcases the implementation of glassmorphism design principles with a teal and cyan color theme.
+This is a simple calculator application built using React. The app showcases the implementation of glassmorphism design principles with a beautiful gradient color theme.
 
 ## Features
 
