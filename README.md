@@ -13,7 +13,8 @@ This is a simple calculator application built using React. The app showcases the
 
 ## Preview
 
-![Calculator Preview](preview_image_url)
+![image](https://github.com/user-attachments/assets/5e6c284a-c94e-4453-a34a-0d61fe9cf095)
+
 
 ## Installation
 
